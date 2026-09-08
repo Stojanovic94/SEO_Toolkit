@@ -51,8 +51,8 @@ A comprehensive, professional-grade SEO analysis tool for web developers. Extrac
 #### Option 1: Direct Server Upload
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/Stojanovic94/SEO_Toolkit/.git
-   cd seo-meta-tag-extractor
+   git clone https://github.com/Stojanovic94/SEO_Toolkit.git
+   cd SEO_Toolkit
    ```
 
 2. Upload files to your web server:
@@ -62,7 +62,7 @@ A comprehensive, professional-grade SEO analysis tool for web developers. Extrac
 
 3. Access via browser:
    ```
-   https://yourdomain.com/seo-toolkit/
+   https://yourdomain.com/seo_toolkit/
    ```
 
 #### Option 2: Local Development with PHP Built-in Server
