@@ -51,7 +51,7 @@ A comprehensive, professional-grade SEO analysis tool for web developers. Extrac
 #### Option 1: Direct Server Upload
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/seo-meta-tag-extractor.git
+   git clone https://github.com/Stojanovic94/SEO_Toolkit/.git
    cd seo-meta-tag-extractor
    ```
 
@@ -62,12 +62,12 @@ A comprehensive, professional-grade SEO analysis tool for web developers. Extrac
 
 3. Access via browser:
    ```
-   https://yourdomain.com/seo-meta-tag-extractor/
+   https://yourdomain.com/seo-toolkit/
    ```
 
 #### Option 2: Local Development with PHP Built-in Server
 ```bash
-cd seo-meta-tag-extractor
+cd seo-toolkit
 php -S localhost:8000
 ```
 
@@ -152,7 +152,7 @@ Complete analysis export includes:
 ## 📁 Project Structure
 
 ```
-seo-meta-tag-extractor/
+seo-toolkit/
 ├── index.php          # Main PHP application with backend analysis
 ├── style.css          # Complete responsive styling system
 ├── script.js          # Client-side interactivity
@@ -272,13 +272,6 @@ Contributions are welcome! Please follow these guidelines:
 - Additional language support
 - Performance optimizations
 
-## 📧 Support & Contact
-
-For questions, issues, or suggestions:
-- **Issues**: Submit via GitHub Issues page
-- **Email**: [your-email@example.com]
-- **Twitter**: [@yourhandle]
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -306,7 +299,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Twitter Card Documentation](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
 
 ---
-
-**Made with ❤️ for web developers and SEO professionals**
 
 ⭐ If you find this tool helpful, please consider giving it a star on GitHub!
